@@ -3,7 +3,7 @@
 ![Image](https://github.com/potacho/damned_pipelines/blob/master/images/damned_pipelines.jpg)
 
 Frustrated? Lost? Dreaming about Pipelines?...don't worry, after finishing this exercise you'll get it and wouldn't believe that you've lived so long without Pipelines :raised_hands: :raised_hands: :raised_hands:
-
+ 
 ---
 
 ## :wrench: __First things first:__ GET YOUR TOKEN!
